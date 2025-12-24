@@ -13,6 +13,7 @@ Quick links
 - Planning: octoacme-project-planning.md
 - Execution & tracking: octoacme-execution-and-tracking.md
 - Roles & personas: octoacme-roles-and-personas.md
+- Onboarding checklist: octoacme-onboarding-checklist.md
 - Risk & communication: octoacme-risks-and-communication.md
 - Release & deployment: octoacme-release-and-deployment.md
 - Retrospectives: octoacme-retrospective-and-continuous-improvement.md
